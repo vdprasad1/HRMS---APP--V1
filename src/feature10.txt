@@ -1,2 +1,6 @@
 Feature 10: Support federated logins
+<<<<<<< HEAD
 abc - local repo 
+=======
+second line remote repo
+>>>>>>> 411bf17e309917f9419b2db9968361e64dcdb68e
